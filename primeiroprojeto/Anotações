@@ -1,0 +1,5 @@
+sout(String.format("lsadflja %s", nome)
+        %s = string
+        %d = inteiro
+        %f ou %2f = decimal
+string.equal = pra ver se há igualdade
